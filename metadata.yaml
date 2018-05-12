@@ -1,0 +1,55 @@
+_repo: Grimm-testv-rek--sszegy-jt-tt-mes-i_40088
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Benedek, Elek
+    birthdate: &id001 1859
+    deathdate: 1929
+    gutenberg_agent_id: '39589'
+    url: http://www.gutenberg.org/2009/agents/39589
+    wikipedia: http://hu.wikipedia.org/wiki/Benedek_Elek
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Grimm, Wilhelm
+    alias: Grimm, Wilhelm Carl
+    birthdate: 1786
+    deathdate: *id001
+    gutenberg_agent_id: '972'
+    url: http://www.gutenberg.org/2009/agents/972
+    wikipedia: http://en.wikipedia.org/wiki/Wilhelm_Grimm
+  - agent_name: Grimm, Jacob
+    alias: Grimm, Jacob Ludwig Carl
+    birthdate: 1785
+    deathdate: 1863
+    gutenberg_agent_id: '971'
+    url: http://www.gutenberg.org/2009/agents/971
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Grimm
+description: ''
+gutenberg_issued: '2012-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40088'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales -- Germany -- Translations into Hungarian'
+- !lcc 'PZ'
+tableOfContents: A békakirályfi -- Szűz Mária leánya -- A félelemkereső -- A farkas
+  és a kecskollók -- A tizenkét testvér -- Kakaska és tyukocska -- Boriska és Gyurika
+  -- A törpék -- Pila -- Jancsika és Juliska -- Hamupipőke -- A hét holló -- Piros
+  sapkácska -- A muzsikusok -- Az okos Kati -- Hüvelyk Matyi -- Babszem Jankó vándorlása
+  -- Csipkerózsa -- Hófehérke -- A hű szolga -- A kevély királykisasszony -- Madárka
+  és Rózsika -- Az aranyfonál -- A veréb -- A libapásztor királykisasszony -- A szerencsés
+  János -- Az okos leány -- Mindentudó doktor -- A félkegyelmű asszony -- A szegény
+  és a gazdag ember -- A molnárinas és a macska -- A madarak királya -- Az okos emberek
+  -- A jókedvű János -- A rest királyfik -- A két testvér -- Az okos szabócska --
+  A tyúkocska halála -- Hófehérke és Rózsapiroska -- A fehér és a fekete menyasszony
+  -- A hét sváb -- A négy testvér -- A serény meg a lusta leány -- A halász és a felesége
+  -- A csillagtallérok -- Egyszemű, Kétszemű, Háromszemű.
+title: Grimm testvérek összegyüjtött meséi
+url: http://www.gutenberg.org/ebooks/40088

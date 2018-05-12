@@ -3,7 +3,7 @@ _version: 0.1.0
 contributor:
   translator:
     agent_name: Benedek, Elek
-    birthdate: &id001 1859
+    birthdate: 1859
     deathdate: 1929
     gutenberg_agent_id: '39589'
     url: http://www.gutenberg.org/2009/agents/39589
@@ -16,7 +16,7 @@ creator:
   - agent_name: Grimm, Wilhelm
     alias: Grimm, Wilhelm Carl
     birthdate: 1786
-    deathdate: *id001
+    deathdate: 1859
     gutenberg_agent_id: '972'
     url: http://www.gutenberg.org/2009/agents/972
     wikipedia: http://en.wikipedia.org/wiki/Wilhelm_Grimm
@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/971
     wikipedia: http://en.wikipedia.org/wiki/Jacob_Grimm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40088#Grimm-testv-rek--sszegy-jt-tt-mes-i
 gutenberg_issued: '2012-06-26'
 gutenberg_type: Text
 identifiers:
